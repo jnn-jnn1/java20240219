@@ -9,5 +9,7 @@ public class C02Integer {
         b = -3000000;
         b = 0;
         b = 2_147_483_647;
+
+        // 내일은 byte, short 배울 예정
     }
 }
